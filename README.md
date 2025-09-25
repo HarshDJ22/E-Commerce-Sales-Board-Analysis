@@ -3,3 +3,14 @@ An interactive Tableau dashboard that analyzes year-to-date (YTD) e-commerce per
 
 ## Dataset Used
 <a href ="https://drive.google.com/file/d/1VenmPy5rLs50w0k_9qrH_FS20kJ42toW/view">Dataset</a>
+
+Questions (KPIS)
+- Sales KPI
+- Profit KPI
+- Order Quantity KPI
+- Market Share by Sales
+- Category Wise Year to Date Sales VS Previous Year to Date Sales
+- Market Wise Customer Acquistion Per Month
+
+- Dashboard Interaction <a href = "https://public.tableau.com/app/profile/harsh.jethwa6836/viz/ECommerceAnalysis_17588116985990/Dashboard1?publish=yes"> View Dashboard</a>
+
