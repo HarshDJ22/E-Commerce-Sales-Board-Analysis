@@ -26,6 +26,9 @@ Dashboard
 
 <img width="1710" height="879" alt="Screenshot 2025-09-25 192002" src="https://github.com/user-attachments/assets/44e73cb3-18cd-4999-925d-8f401b07b11f" />
 
+
+
+
 Projectinshights:
 
 -Sales are Down, Volume is Up: Sales are down 5.04% ($14.11M) despite a 15.02% increase in Order Quantity. This signals a major drop in Average Order Value (AOV), likely due to discounting.
