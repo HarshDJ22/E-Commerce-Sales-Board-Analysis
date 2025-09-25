@@ -14,3 +14,10 @@ Questions (KPIS)
 
 - Dashboard Interaction <a href = "https://public.tableau.com/app/profile/harsh.jethwa6836/viz/ECommerceAnalysis_17588116985990/Dashboard1?publish=yes"> View Dashboard</a>
 
+Process
+- Project Objective
+- Data Collection
+- Data Cleaning & Preparation
+- Data Modeling
+- Dashboard Design
+- Interactivity
