@@ -1,2 +1,2 @@
-# E-Commerce-Sales-Board-Analysis
-The dashboard provides a Year-to-Date (YTD) Sales Analysis for an e-commerce business. It compares current performance with the Previous Year (PY) to highlight trends in Sales, Profit, and Order Quantity, as well as performance by Category and Market/Region.
+E-Commerce Sales Dashboard – Tableau
+An interactive Tableau dashboard that analyzes year-to-date (YTD) e-commerce performance. It highlights key business metrics—total sales, profit, and order quantity—while comparing results with the previous year. The dashboard breaks down revenue by region and product category, shows market share across global markets, and tracks monthly customer acquisition rankings. Filters for market and customer segment allow users to drill down and explore trends. Key insights reveal modest sales growth but declining order volume, strong performance in outdoor equipment categories, and heavy revenue dependence on LATAM and Europe.
