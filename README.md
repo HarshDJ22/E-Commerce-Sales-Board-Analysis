@@ -25,3 +25,20 @@ Process
 Dashboard
 
 <img width="1710" height="879" alt="Screenshot 2025-09-25 192002" src="https://github.com/user-attachments/assets/44e73cb3-18cd-4999-925d-8f401b07b11f" />
+
+Projectinshights:
+
+-Sales are Down, Volume is Up: Sales are down 5.04% ($14.11M) despite a 15.02% increase in Order Quantity. This signals a major drop in Average Order Value (AOV), likely due to discounting.
+-Profit is Flat: Profit of $1.30M is down 0.46%, confirming the drop in sales volume is directly hitting the bottom line.
+-High Market Concentration: Europe and LATAM account for nearly 90% of total sales, creating high regional risk. Other markets are negligible.
+-Biggest Declines: Cleats (−26.34%) and Fishing (−24.98%) are the worst-performing categories, facing both sales and margin losses.
+-Top Growth Areas: Shop By Sport grew +170.70% (but with lower margins), while Camping & Hiking grew a healthy +12.55% with improved margins.
+
+Final Conclusion:
+
+The e-commerce business is facing a critical challenge: a sales decline (−5.04%) despite a surge in order volume (+15.02%). This disparity points directly to a severe erosion of Average Order Value (AOV), suggesting aggressive discounting or a shift to lower-priced products.
+
+The primary strategy must immediately shift to optimizing profitability per order, by addressing the catastrophic sales and margin declines in categories like Cleats and Fishing, and by reducing the dangerous 90% reliance on the Europe/LATAM markets. The current high volume is unsustainable if it continues to erode revenue and profit.
+
+
+
